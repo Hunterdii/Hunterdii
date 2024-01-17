@@ -52,8 +52,8 @@
     </div>
   <h2 align="center">⚡ Stats ⚡</h2>
      <div style="width: 45%;">
-      <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Hunterdii&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-      <img width=390 src="https://github-readme-stats.vercel.app/api?username=Hunterdii&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vert-eta.vercel.app?user=Hunterdii&theme=tokyonight-duo&card_width=450" alt="GitHub Streak" /></a>
+       <img width=390 src="https://github-readme-stats.vercel.app/api?username=Hunterdii&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
       <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hunterdii&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     </div>
   </div>
@@ -70,10 +70,9 @@
   </a>
 </div>
 
-
 <h2>🍴🐍 Snake eating my Contributions 🐍🍴</h2>
 
-![snake gif](https://github.com/Hunterdii/Hunterdii/blob/output/github-contribution-grid-snake.gif)
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Hunterdii/Hunterdii/output/github-contribution-grid-snake.svg" />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
