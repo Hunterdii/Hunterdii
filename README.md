@@ -73,6 +73,7 @@
 
 <h2>🍴🐍 Snake eating my Contributions 🐍🍴</h2>
 
+![snake gif](https://github.com/Hunterdii/Hunterdii/blob/output/github-contribution-grid-snake.gif)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
