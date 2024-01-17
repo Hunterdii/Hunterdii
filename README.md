@@ -1,4 +1,17 @@
-<h2>કેમ છો🙏, ​नमस्ते (Namaste)🙏🏻, I'm Patel HetKumar SandipBhai! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>કેમ છો🙏, ​नमस्ते (Namaste)🙏🏻, I'm Patel HetKumar SandipBhai! 
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+  <br><br><p align="center">
+  <a href="https://www.youtube.com/@alpharoman9602"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/het-patel-8b110525a/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/HetPate94938685"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/channels/1106636869795590254/1106636869795590257" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.buymeacoffee.com/het81857"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+</p></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Full Stack Web Developer at <a href="">RR Cables,CodeSoft</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -22,11 +35,11 @@
 - Designing 🎨
 - and anything...
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hunterdii9879@gmail.com)
-![Twitter Follow](https://img.shields.io/twitter/follow/het-patel-8b110525a?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/het-patel-8b110525a/)](https://www.linkedin.com/in/het-patel-8b110525a/)
-![GitHub followers](https://img.shields.io/github/followers/Hunterdii?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=Hunterdii.Hunterdii)
+<p align="right">
+ <em> <a href="https://stars.github.com/Hunterdii">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</em></p>
+
 
 
 <div align="center">
