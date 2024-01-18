@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></p>
   <p align="center">
   <a href="https://github.com/Hunterdii/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20And%20App%20Developer;Future%20Cyber%20Security%20Professional;3%2B%20Years%20Of%20Coding%20Experience;Always%20Learning%20Great%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20And%20App%20Developer;Future%20Cyber%20Security%20Professional;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
   <p align="center">
   <a href="https://www.youtube.com/@alpharoman9602"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
