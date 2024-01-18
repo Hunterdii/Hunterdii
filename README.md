@@ -4,7 +4,7 @@
   <a href="https://github.com/Hunterdii/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20And%20App%20Developer;Future%20Cyber%20Security%20Professional;3%2B%20Years%20Of%20Coding%20Experience;Always%20Learning%20Great%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-  <br><br><p align="center">
+  <p align="center">
   <a href="https://www.youtube.com/@alpharoman9602"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/het-patel-8b110525a/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
