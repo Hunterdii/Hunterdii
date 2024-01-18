@@ -1,4 +1,4 @@
-<h2>કેમ છો🙏, ​नमस्ते (Namaste)🙏🏻, I'm Patel HetKumar SandipBhai! 
+<h2>કેમ છો🙏, ​नमस्ते (Namaste)🙏🏻, I'm Patel HetKumar SandipBhai!
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
   <br><br><p align="center">
   <a href="https://www.youtube.com/@alpharoman9602"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -17,23 +17,23 @@
 </em></p>
 
 ### ✔️ I'm currently learning
-- CyberSecurity & Forensic
-- MongoDB
-- Devops
-- React.js,Native
+- CyberSecurity & Forensic 🔐
+- MongoDB 🍃
+- Devops ☁️
+- React.js, Native ⚛️
 
 ### 💻 I'm working on
-- My portfolio website.
-- Festivity Flippers(My StartUp).
+- My portfolio website 💼
+- Festivity Flippers (My StartUp) 🚀
 
 ### 🌱 Goals for 2024
-- Complete #100DaysOfCode challenge.
-- Build 30+ projects.
-- Contribute to Open Source.
+- Complete #100DaysOfCode challenge 💯.
+- Build 30+ projects 🛠️.
+- Contribute to Open Source 🌐.
 
 ### 💭 Ask me about
 - Designing 🎨
-- and anything...
+- and anything... ❓
 
 <!--<p align="right">
  <em> <a href="https://stars.github.com/Hunterdii">
