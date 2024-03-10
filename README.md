@@ -1,21 +1,30 @@
 <h2><p align="center">કેમ છો🙏, ​नमस्ते (Namaste)🙏🏻, I'm Patel HetKumar SandipBhai!
-    <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></p>
+    <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></p> 
   <p align="center">
   <a href="https://github.com/Hunterdii/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20And%20App%20Developer;Future%20Cyber%20Security%20Professional;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-  <p align="center">
-  <a href="https://www.youtube.com/@alpharoman9602"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/het-patel-8b110525a/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/HetPate94938685"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/channels/1106636869795590254/1106636869795590257" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/het81857"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-   &#8287;&#8287;&#8287;&#8287;&#8287;
-</p></h2>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20And%20App%20Developer;Future%20Cyber%20Security%20Professional;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f39c12 &vCenter=true&pause=1000&size=22" /></a>
+      <!--1abc9c,e74c3c,3498db,2ecc71,9b59b6,f39c12--!>
+      
+<table width="120" align="center">
+  <tr>
+    <td align="center" width="60">
+      <a href="https://twitter.com/HetPate94938685"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.linkedin.com/in/het-patel-8b110525a/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.youtube.com/@alpharoman9602"><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/youtube-icon.svg" width="60"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://discord.com/channels/1106636869795590254/1106636869795590257"><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/discord-tile.svg" width="60"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.buymeacoffee.com/het81857"><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/buymeacoffee-icon.svg" width="60"></a>
+    </td>
+  </tr>
+</table>
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Full Stack Web Developer at <a href="">RR Cables,CodeSoft</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -39,50 +48,9 @@
 - Designing 🎨
 - and anything... ❓
 
-<!--<p align="right">
- <em> <a href="https://stars.github.com/Hunterdii">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
-</em></p>-->
-
-<!--<div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-    <h2>🛠️💻 Languages and Tools 💻🛠️</h2>
-    <div style="width: 45%;">
-      <code><img width="20%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-      <code><img width="20%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-      <code><img width="20%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-      <code><img width="20%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-      <code><img width="20%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-      <code><img width="20%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-      <code><img width="20%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
-      <code><img width="20%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-      <code><img width="20%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-      <code><img width="20%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-      <code><img width="20%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
-      <code><img width="20%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-      <code><img width="20%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-      <code><img width="20%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-      <code><img width="20%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-    </div>
-  <!--<h2 align="center">⚡ Stats ⚡</h2>
-     <div style="width: 45%;">
-       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vert-eta.vercel.app?user=Hunterdii&theme=tokyonight" alt="GitHub Streak" /></a>
-       <img width=390 src="https://github-readme-stats.vercel.app/api?username=Hunterdii&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-      <img width=325 src="https://github-readme-stats-Hunterdii.vercel.app/api/top-langs/?username=Hunterdii&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    </div>
-  </div>
-</div>
-<br/><br/>
-
-<hr/>
-
-<br/>-->
-<details> 
+<!--<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
   <h3>👨‍💻 Programming and Markup Languages</h3>
-
   <p>
       <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -101,7 +69,6 @@
       <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
   <h3>🧰 Frameworks and Libraries</h3>
-
   <p>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
@@ -127,7 +94,6 @@
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
   </p>
   <h3>💻 Software and Tools</h3>
-
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
@@ -142,152 +108,208 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
       </p>
+</details>!-->
+<details>
+<summary><h2 align='center'>💻Languages and Tools🛠️</h2></summary>
+<table width="100">
+    <h3>👨‍💻 Programming and Markup Languages</h3
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+    </td>
+    <td align='center' width="190">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+    </td>
+    <td align='center' width="190">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/>
+    </td>
+</tr>
+    <tr>
+      <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60"/>
+    </td>
+        <td align='center' width="190">
+            <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="60"/>
+    </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="120"/>
+    </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" width="120"/>
+    </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="60"/>
+    </td>
+    </tr>
+</table>
+<table width="100">
+    <h3>🗄️ Databases and Cloud Hosting</h3>
+<tr>
+    <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="120"/>
+    </td>
+    <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="120"/>
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="120"/>
+    </td>
+</tr>
+</table>
+<table width="100">
+    <h3>💻 Software and Tools</h3>
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original-wordmark.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/androidstudio/androidstudio-original-wordmark.svg" width="60">
+    </td>
+<tr> 
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" width="120">
+    </td>
+    </tr>
+    </tr>
+</table>
+    <table width="100">
+    <h3>🧰 Frameworks and Libraries</h3>
+    <tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg">
+    </td>
+</tr>
+</table>
 </details>
+<details>
+<summary><h2 align='center'>🏆Competitive Coding Profile</h2></summary>
+    
+[![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/hunterdii9879)
+[![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-hunterdxwfu-green)](https://auth.geeksforgeeks.org/user/hunterdxwfu)	
+[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/hunterdii9879/)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-2ecc71?style=flat&labelColor=000000&logo=TryHackMe&logoColor=red)](https://tryhackme.com/p/Hunterdii)
 
+</details>
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
-
   <h3>🔥 Streak Stats</h3>
-
   <!-- GitHub Readme Streak Stats - https://github.com/Hunterdii/github-readme-streak-stats -->
   <p>
     <a href="<a href="https://git.io/streak-stats"">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats-vert-eta.vercel.app?user=Hunterdii&theme=tokyonight-duo&card_width=450"/>
-
-
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats-vert-eta.vercel.app?user=Hunterdii&theme=github-dark-blue&card_width=450"/>
   <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/Hunterdii/github-readme-stats"><img alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=Hunterdii&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/Hunterdii/github-readme-stats"><img alt="top langs" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hunterdii&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" height="192px"/></a>
+  <!-- https://github.com/Hunterdii/github-readme-stats -->
+  <a href="https://github.com/Hunterdii/github-readme-stats"><img alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=Hunterdii&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/Hunterdii/github-readme-stats"><img alt="top langs" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hunterdii&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" height="192px"/></a>
   <br/>
-
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
+<br/>
+<br/>   
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hunterdii's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Hunterdii&theme=github-dark" /></a>
 
 </details>
 <details> 
   <summary><h2>📺 My YouTube Please Give A Subscribe</h2></summary>
    <h3> 😎 <em> I Will Make Sure To Do Entertain With My Content </em> 🤪 </h3>
-  <a href="https://www.youtube.com/@alpharoman9602?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
-  
+  <a href="https://www.youtube.com/@alpharoman9602?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a> 
 </details>
-
 <div align="center">
   <a href='https://www.buymeacoffee.com/het81857' target='_blank'>
     <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
   </a>
 </div>
 
+        
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+```javascriptclass ReadMe:
+    def __init__(self):
+        self.name = 'Patel HetKumar SandipBhai'
+        self.education = {'programming': 'Full Stack Software Development', 'art': ['Singing', 'Art and Design', 'Gaming']}
+        self.employment = {'developer': ['company', 'city'], 'designer': ['RR Cables', 'CodeSoft', 'Oasis InfoByte',]}
+        self.current_year = 2024
+    def doing(self, now):
+        if now < self.current_year:
+            return f"I was a design with {self.employment['developer'][0]} in {self.employment['developer'][1]}"
+        elif now == self.current_year:
+            return f"I am currently learning {self.education['programming']} at Parul Institute"
+        elif now > self.current_year:
+            return f"I am eager to collaborate with {self.employment['developer'][0]} on Android and web development"
+        else:
+            return "### Hi there 👋"
+    def collaborate(self, role, organization, location):
+        self.employment[role] = [organization, location]
+    pronouns = "He | Him"
+    code = ["Javascript🚀", "C🅒", "Python🐍", "Java☕", "Php🐘", "C#(.Net🎯)"]
+    askMeAbout = ["web dev🌐", "Foody🍔", "app dev📱", "Singing🎤", "Drawing✏️"]
+    technologies = {'mobileApp': ["Android App📱", "Flutter🚀"], 'frontEnd': {'js': ["React⚛️"], 'css': ["Tailwind🌪️", "bootstrap🅱️"]}, 'backEnd': {'php': ["php🐘", "c#🎯"], 'python': ["flask🍶"]}, 'devOps': ["Google Cloud☁️", "Docker🐳", "AWS🌩️"], 'databases': ["mongoDB🍃", "MySql🐬", "Oracle🛢️"], 'misc': ["Firebase🔥", "sqlite📦"]}
+    architecture = ["Serverless Architecture", "Progressive web applications", "Single page applications"]
+    currentProject = "I am developing Android Application Named: FestivityFlippers"
+    funFact = "There are two ways to write error-free programs; only the third one works"
+
+me = ReadMe()
+```
+
+<!--
 <h2>🍴🐍 Snake eating my Contributions 🐍🍴</h2>
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Hunterdii/Hunterdii/output/github-contribution-grid-snake.svg" />
+--!>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy making new connections ,</b> so feel free to <b>reach out if you'd like to chat further!</b> 😊</em>
 
-```javascript
-const Het = {
-class ReadMe:
-    def __init__(self, username="Hunterdii", year=2022-25):
-        self.username = username
-        self.name = 'Patel HetKumar SandipBhai'
-        self.education = {
-            'programming': ['Full Stack Software Development', 'CyberSecurity Professional'],
-            'art': ['Singing', 'Art and Design', 'Gaming']
-        }
-        self.employment = {
-            'developer': ['company', 'city'],
-            'designer': ['CodeSoft', ['Vadodara', 'Ajwa']]
-        }
-
-    def doing(self, now=2023):
-        today = self.year
-
-        if now < today:
-            experience = self.employment['(:)']
-            return """
-            I was a design with {large_firms} in {small_cities}.
-            """.format(large_firms=experience[0], big_cities=experience[1])
-
-        elif now = today:
-            dream = self.education['programming']
-            return """
-            I am currently learning {code} at {parul_institute}.
-            """.format(code=dream[0], code_institute=dream[1])
-
-        elif now > today:
-            goal = self.employment['developer']
-            return """
-            I am eager to collaborate with {teams} on {projects}.
-            """.format(teams=goal[0], projects='Android,web Development')
-        else:
-            return """
-            ### Hi there 👋
-            """
-        
-    def collaborate(self, role, organization, location):
-        opportunity = self.employment
-        opportunity[role] = [RR Cables, Vadodara]
-
-    pronouns: "He" | "Him",
-    code: ["Javascript🚀", "C"🅒, "Python🐍", "Java☕", "Php🐘", "C#(.Net🎯)"],
-    askMeAbout: ["web dev🌐", "Foody🍔", "app dev📱", "Singing🎤", "Drawing✏️"],
-    technologies: {
-        mobileApp: ["Android App📱","Flutter🚀"],
-        frontEnd: {
-            js: ["React⚛️"],
-            css: ["Tailwind🌪️", "bootstrap🅱️"]
-        },
-        backEnd: {
-                  : ["php🐘", "c#🎯"],
-            python: ["flask🍶"]
-        },
-        devOps: ["Google Cloud☁️", "Docker🐳", "AWS🌩️"],
-        databases: ["mongoDB🍃", "MySql🐬", "Oracle🛢️"],
-        misc: ["Firebase🔥", "sqlite📦"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Android Application Named:FestivityFlippers",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-me = ReadMe(2024)
-};
-```
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
 <!--START_SECTION:waka-->
-**I'm an early & an late Owl as per kick From IT.​🌓​🐤🦉​🌇​🌃​** 
-
+<!--**I'm An Early & An Late Owl As Per The Kick I Get From...​🌓​🐤🦉​🌇​🌃​** 
 ```text
 🌞 Morning                     95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
 🌆 Daytime                     78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
 🌃 Evening                    112 commits     █████████░░░░░░░░░░░░░░░░   36.01% 
 🌙 Night                       36 commits     ██████░░░░░░░░░░░░░░░░░░░   18.36%
 
-```
-📊 **This week I spent my time on** 
-```text
-⌚︎ Timezone: Asia/MyTime
-
-💬 Languages: 
-Google Cloud               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01%
-Java                       3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.46%
-Python                     2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.28% 
-Android                    2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49% 
-JavaScript                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   8.89% 
-MongoDB/Devops             1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
-
-🔥 Free Time: 
-Linux                      9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-Internship work            4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.71% 
-GCP/MS Training            2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
-
-💻 Operating Systems: 
-Windows                   17 hrs 5 mins       █████████████████████░░░░   69.0%
-Linux                      7  hrs 11 mins     ████░░░░░░░░░░░░░░░░░░░░░   31.0%
-
-```
+```--!>
