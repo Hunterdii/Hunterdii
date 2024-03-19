@@ -47,6 +47,8 @@
 ### 💭 Ask me about
 - Designing 🎨
 - and anything... ❓
+### ⚡ Fun fact 
+- 🐱‍💻 My GitHub codes = 20%  🙋‍♂️ Me + 40%  💡 StackOverflow + 5%  🔍 Google + 15%  🤖 ChatGPT + 20%
 
 <!--<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
