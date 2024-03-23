@@ -270,8 +270,11 @@
   <!-- https://github.com/Hunterdii/github-readme-stats -->
   <a href="https://github.com/Hunterdii/github-readme-stats"><img alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=Hunterdii&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" height="192px"/></a>
   <a href="https://github.com/Hunterdii/github-readme-stats"><img alt="top langs" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hunterdii&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!--   <br/>
+        <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hunterdii&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+</div ></h1> -->
+        <br/>
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>   
 
@@ -282,7 +285,12 @@
   <summary><h2>📺 My YouTube Please Give A Subscribe</h2></summary>
    <h3> 😎 <em> I Will Make Sure To Do Entertain With My Content </em> 🤪 </h3>
   <a href="https://www.youtube.com/@alpharoman9602?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a> 
+ 
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div> 
   <div>
 
  <div align="center">
