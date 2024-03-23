@@ -1,10 +1,31 @@
-<h2><p align="center">કેમ છો🙏, ​नमस्ते (Namaste)🙏🏻, I'm Patel HetKumar SandipBhai!
+<h2><p align="center">કેમ છો🙏, ​नमस्ते (Namaste)🙏🏻, I'm Het Patel!
     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></p> 
   <p align="center">
   <a href="https://github.com/Hunterdii/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20And%20App%20Developer;Future%20Cyber%20Security%20Professional;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f39c12 &vCenter=true&pause=1000&size=22" /></a>
-      <!--1abc9c,e74c3c,3498db,2ecc71,9b59b6,f39c12--!>
-      
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20And%20App%20Developer;Future%20Cyber%20Security%20Professional;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=f1c40f &vCenter=true&pause=1000&size=22" /></a>
+      <!--1abc9c,e74c3c,3498db,2ecc71,9b59b6,f39c12
+      Certainly! Here are some additional unique and special color codes:
+      1. #f1c40f - Goldenrod
+      2. #3498db - Cerulean
+      3. #e74c3c - Coral
+      4. #9b59b6 - Lavender
+      5. #34495e - Gunmetal
+      6. #e74c3c - Crimson
+      7. #1abc9c - Turquoise
+      8. #f39c12 - Tangerine
+      9. #8e44ad - Orchid
+      10. #27ae60 - Emerald
+      11. #e67e22 - Burnt Orange
+      12. #d35400 - Pumpkin
+      13. #27ae60 - Jade
+      14. #8e44ad - Amethyst
+      15. #16a085 - Teal
+      16. #c0392b - Mahogany
+      17. #2980b9 - Sapphire
+      18. #d35400 - Terracotta
+      19. #7f8c8d - Slate Gray
+      20. #2c3e50 - Midnight Blue--!>
+
 <table width="120" align="center">
   <tr>
     <td align="center" width="60">
@@ -261,12 +282,25 @@
   <summary><h2>📺 My YouTube Please Give A Subscribe</h2></summary>
    <h3> 😎 <em> I Will Make Sure To Do Entertain With My Content </em> 🤪 </h3>
   <a href="https://www.youtube.com/@alpharoman9602?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a> 
+
+  <div>
+
+ <div align="center">
+  
+## 😂 Have a Smile Guyzzz! 😂
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+ </div>
+</div>
+
 </details>
 <div align="center">
   <a href='https://www.buymeacoffee.com/het81857' target='_blank'>
     <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
   </a>
 </div>
+
 
         
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
