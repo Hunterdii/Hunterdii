@@ -274,11 +274,14 @@
         <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hunterdii&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 </div ></h1> -->
         <br/>
- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ <b>Note:</b>Top languages only hint at the colorful palette of coding languages I've explored. Yet, they're like a trailer to an epic movie, teasing the excitement of what lies beneath the surface. Dive deeper, and you'll discover the mastery and artistry I bring to each line of code, painting vibrant solutions with finesse.
 <br/>
 <br/>   
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hunterdii's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Hunterdii&theme=github-dark" /></a>
+
+
+
 
 </details>
 <details> 
