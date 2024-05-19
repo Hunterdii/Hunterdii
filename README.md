@@ -68,6 +68,9 @@
 ### ⚡ Fun fact 
 - 🐱‍💻 My GitHub codes = 20%  🙋‍♂️ Me + 40%  💡 StackOverflow + 5%  🔍 Google + 15%  🤖 ChatGPT + 20%
 
+<p align='center'>
+  <img align="center" src="https://github.com/Hunterdii/Basic-LoginPage-FireBaseIN/blob/master/github_stats.svg"
+</p>
 <!--<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
