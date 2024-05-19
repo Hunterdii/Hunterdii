@@ -67,6 +67,11 @@
 - and anything... ❓
 ### ⚡ Fun fact 
 - 🐱‍💻 My GitHub codes = 20%  🙋‍♂️ Me + 40%  💡 StackOverflow + 5%  🔍 Google + 15%  🤖 ChatGPT + 20%
+<!--🖼️OCTOCAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
+
+
 
 <p align='center'>
   <img align="center" src="https://github.com/Hunterdii/Basic-LoginPage-FireBaseIN/blob/master/github_stats.svg"
@@ -303,7 +308,11 @@
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div> 
+
   <div>
+<!--🃏MEMEPHOTOS / 🌐WEBSITE: https://github.com/trinib/random-memer -->
+<p align="center">
+<img src="https://memer-dx9lqo667-trinib.vercel.app/" width="330px"/>
 
 </div>
 
@@ -349,11 +358,14 @@ me = ReadMe()
 </details>
 
 
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<!--<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+<h2>🍴🐍 Snake eating my Contributions 🐍🍴</h2>--!>
 
-<!--
-<h2>🍴🐍 Snake eating my Contributions 🐍🍴</h2>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Hunterdii/Hunterdii/output/github-contribution-grid-snake.svg" />
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
+<!--<img src="https://raw.githubusercontent.com/Hunterdii/Hunterdii/output/github-contribution-grid-snake.svg" width="100%">
 --!>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy making new connections ,</b> so feel free to <b>reach out if you'd like to chat further!</b> 😊</em>
