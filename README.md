@@ -286,14 +286,23 @@
 </div>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hunterdii's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Hunterdii&theme=github-dark" /></a>
-## 🏆 GitHub Trophies
+
+<!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hunterdii&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hunterdii&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hunterdii&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>!-->
 
 
 
-
+<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Hunterdii&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+ </div>
+ 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Hunterdii&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+ </div>-->
 
 
 </details>
