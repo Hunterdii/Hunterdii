@@ -329,11 +329,11 @@
 </details>
 <div align="center">
   <a href='https://www.buymeacoffee.com/het81857' target='_blank'>
-    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    <img height='64' style='border:0px;height:64px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-red.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
   </a>
 </div>
 
-
+<!--https://storage.ko-fi.com/cdn/kofi1.png!-->
         
 <details> <summary><h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 A little more about me...</h2></summary>
