@@ -1,5 +1,5 @@
 <h2><p align="center">કેમ છો🙏, ​नमस्ते (Namaste)🙏🏻, I'm Het Patel!
-    <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></p> 
+    <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></p></h2> 
   <p align="center">
   <a href="https://github.com/Hunterdii/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20And%20App%20Developer;Future%20Cyber%20Security%20Professional;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=f1c40f &vCenter=true&pause=1000&size=22" /></a>
@@ -25,7 +25,27 @@
       18. #d35400 - Terracotta
       19. #7f8c8d - Slate Gray
       20. #2c3e50 - Midnight Blue--!>
-
+<!--<table width="120" align="center">
+  <tr>
+    <td align="center" width="60">
+      <a href="https://twitter.com/HetPate94938685"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.linkedin.com/in/het-patel-8b110525a/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.youtube.com/@alpharoman9602"><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/youtube-icon.svg" width="60"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://discord.com/channels/1106636869795590254/1106636869795590257"><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/discord-tile.svg" width="60"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.buymeacoffee.com/het81857"><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/buymeacoffee-icon.svg" width="60"></a>
+    </td>
+  </tr>
+</table>-->
+  
+    
 <table width="120" align="center">
   <tr>  
     <td align="center" width="60">
@@ -49,28 +69,6 @@
   </tr>
 </table>
 
-
-<!--<table width="120" align="center">
-  <tr>
-    <td align="center" width="60">
-      <a href="https://twitter.com/HetPate94938685"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://www.linkedin.com/in/het-patel-8b110525a/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://www.youtube.com/@alpharoman9602"><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/youtube-icon.svg" width="60"></a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://discord.com/channels/1106636869795590254/1106636869795590257"><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/discord-tile.svg" width="60"></a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://www.buymeacoffee.com/het81857"><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/buymeacoffee-icon.svg" width="60"></a>
-    </td>
-  </tr>
-</table>-->
-
-
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - CyberSecurity & Forensic 🔐
 - MongoDB 🍃
@@ -91,6 +89,9 @@
 - and anything... ❓
 ### ⚡ Fun fact 
 - 🐱‍💻 My GitHub codes = 20%  🙋‍♂️ Me + 40%  💡 StackOverflow + 5%  🔍 Google + 15%  🤖 ChatGPT + 20%
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <!--🖼️OCTOCAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
@@ -351,6 +352,7 @@
 </div>
 
 </details>
+
 <div align="center">
   <a href='https://www.buymeacoffee.com/het81857' target='_blank'>
     <img height='64' style='border:0px;height:64px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-red.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
@@ -358,6 +360,8 @@
 </div>
 
 <!--https://storage.ko-fi.com/cdn/kofi1.png!-->
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
         
 <details> <summary><h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 A little more about me...</h2></summary>
@@ -389,6 +393,9 @@ A little more about me...</h2></summary>
 
 me = ReadMe()
 ```
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 </details>
 
 
