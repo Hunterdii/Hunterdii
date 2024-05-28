@@ -1,9 +1,18 @@
-<h2><p align="center">કેમ છો🙏, ​नमस्ते (Namaste)🙏🏻, I'm Het Patel!
-    <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></p></h2> 
-  <p align="center">
+<h2>
+<!--     <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&pause=1000&color=447FF7&center=true&vCenter=true&width=700&height=55&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82;Hey+It's+Het(Hunter)+Patel+%F0%9F%91%8B%F0%9F%8F%BC;I+Am+Currently+Pursuing+My+Bachelor's+%F0%9F%8E%93;Computer+Science+In+BCA;With+Specialization+In+%E2%9A%99%EF%B8%8F;Cyber+Security+%26+Cyber+Forensic;From+PU+Vadodara+%F0%9F%8F%AB;I+Am+a+Cloud+Enthusiast+%F0%9F%93%88;And+Currently+Learning;Business+Intelligence+Tools+%F0%9F%9B%A0%EF%B8%8F" alt="Het Patel" height="55" width="700">-->
+<!--        <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=10000000000000&color=F73283&random=false&width=435&lines=%E0%AA%95%E0%AB%87%E0%AA%AE+%E0%AA%9B%E0%AB%8B%F0%9F%99%8F%2C+%E2%80%8B%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Het+Patel!" align="center" alt="Typing SVG" /></a> -->
+   <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=10000000000000&color=f39c12&center=true&vCenter=true&random=false&width=435&lines=%E0%AA%95%E0%AB%87%E0%AA%AE+%E0%AA%9B%E0%AB%8B%F0%9F%99%8F%2C+%E2%80%8B%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Het+Patel!"  alt="Typing SVG" align="center"  /></a>
+<!--            <img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/butterfly.gif" width=15%><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/dog.gif" width=8%>
+<!--     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">  -->
+ 
+<p align="center">
   <a href="https://github.com/Hunterdii/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20And%20App%20Developer;Future%20Cyber%20Security%20Professional;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=f1c40f &vCenter=true&pause=1000&size=22" /></a>
-      <!--1abc9c,e74c3c,3498db,2ecc71,9b59b6,f39c12
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20And%20App%20Developer;Future%20Cyber%20Security%20Professional;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=9b59b6 &vCenter=true&pause=1000&size=22" align="center" /></a>
+</p>
+
+<!--1abc9c,e74c3c,3498db,2ecc71,9b59b6,f39c12
       Certainly! Here are some additional unique and special color codes:
       1. #f1c40f - Goldenrod
       2. #3498db - Cerulean
@@ -46,6 +55,7 @@
 </table>-->
   
     
+<a href="https://buymeacoffee.com/het81857"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 <table width="120" align="center">
   <tr>  
     <td align="center" width="60">
@@ -68,6 +78,12 @@
     </td>
   </tr>
 </table>
+
+
+</p></h2>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
+
 
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - CyberSecurity & Forensic 🔐
@@ -290,19 +306,48 @@
 </details>
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
-  <h3>🔥 Streak Stats</h3>
-  <!-- GitHub Readme Streak Stats - https://github.com/Hunterdii/github-readme-streak-stats -->
-  <p>
-    <a href="<a href="https://git.io/streak-stats"">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats-vert-eta.vercel.app?user=Hunterdii&theme=github-dark-blue&card_width=450"/>
-  <h3>💻 GitHub Profile Stats</h3>
-  <!-- https://github.com/Hunterdii/github-readme-stats -->
-  <a href="https://github.com/Hunterdii/github-readme-stats"><img alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=Hunterdii&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/Hunterdii/github-readme-stats"><img alt="top langs" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hunterdii&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" height="192px"/></a>
- 
+
+
+<!--<table border="0" align="center">-->
+<table width="100">
+<tr border="0">
+      <td align='center' width="510">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hunterdii&theme=github_dark&rank_icon=github&show_icons=true&count_private=true&hide_border=true" />
+  <br>
+  <!--📏LINE-->
+<!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0447.gif" height="1" width="100%">-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+  </br>
+  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hunterdii&theme=github-dark-blue&hide_border=true" />
+  
+</td>
+
+<td align='center' width="510">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunterdii&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+  </td>
+</tr>
+</table>
+
+
 <b>Note:</b>Top languages only hint at the colorful palette of coding languages I've explored. Yet, they're like a trailer to an epic movie, teasing the excitement of what lies beneath the surface. Dive deeper, and you'll discover the mastery and artistry I bring to each line of code, painting vibrant solutions with finesse.
 <br/> 
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hunterdii's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Hunterdii&theme=github-dark" /></a>
+
+<!--   <h3>🔥 Streak Stats</h3>
+  <!-- GitHub Readme Streak Stats - https://github.com/Hunterdii/github-readme-streak-stats -->
+<!--   <p>
+    <a href="<a href="https://git.io/streak-stats"">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+<!--       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats-vert-eta.vercel.app?user=Hunterdii&theme=github-dark-blue&card_width=450"/>
+  <h3>💻 GitHub Profile Stats</h3> --> 
+  <!-- https://github.com/Hunterdii/github-readme-stats -->
+<!--   <a href="https://github.com/Hunterdii/github-readme-stats"><img alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=Hunterdii&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/Hunterdii/github-readme-stats"><img alt="top langs" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hunterdii&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" height="192px"/></a>
+  --> 
 ## Contributions (3D View)
 <div align="center">
  
@@ -310,7 +355,6 @@
 
 </div>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hunterdii's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Hunterdii&theme=github-dark" /></a>
 
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hunterdii&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
@@ -409,7 +453,7 @@ me = ReadMe()
 <!--<img src="https://raw.githubusercontent.com/Hunterdii/Hunterdii/output/github-contribution-grid-snake.svg" width="100%">
 --!>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy making new connections ,</b> so feel free to <b>reach out if you'd like to chat further!</b> 😊</em>
+ <em> 😊<b>  I enjoy making new connections ,</b> so feel free to <b>reach out if you'd like to chat further!</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></em>
 
 <!--START_SECTION:waka-->
 <!--**I'm An Early & An Late Owl As Per The Kick I Get From...​🌓​🐤🦉​🌇​🌃​** 
