@@ -55,7 +55,6 @@
 </table>-->
   
     
-<a href="https://buymeacoffee.com/het81857"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 <table width="120" align="center">
   <tr>  
     <td align="center" width="60">
@@ -103,6 +102,8 @@
 ### 💭 Ask me about
 - Designing 🎨
 - and anything... ❓
+<a href="https://buymeacoffee.com/het81857"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+
 ### ⚡ Fun fact 
 - 🐱‍💻 My GitHub codes = 20%  🙋‍♂️ Me + 40%  💡 StackOverflow + 5%  🔍 Google + 15%  🤖 ChatGPT + 20%
 <!--📏LINE-->
