@@ -308,7 +308,7 @@
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
-
+  <h3>💻 GitHub Profile Stats</h3> 
 <!--<table border="0" align="center">-->
 <table width="100">
 <tr border="0">
@@ -333,11 +333,20 @@
 </table>
 
 
-<b>Note:</b>Top languages only hint at the colorful palette of coding languages I've explored. Yet, they're like a trailer to an epic movie, teasing the excitement of what lies beneath the surface. Dive deeper, and you'll discover the mastery and artistry I bring to each line of code, painting vibrant solutions with finesse.
-<br/> 
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hunterdii's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Hunterdii&theme=github-dark" /></a>
-
+<b>Note:</b>Top languages only hint at the colorful palette of coding languages I've explored. Yet, they're like a trailer to an epic movie, teasing the excitement of what lies beneath the surface. Dive deeper, and you'll discover the mastery and artistry I bring to each line of code, painting vibrant solutions with finesse. 
+<h3>📈 Activity Graph </h3> 
+<table width="100">
+        <tr border="0">
+      <td align='center' width="1010">
+  <img  align="center"  src="https://github-readme-activity-graph.vercel.app/graph/?username=Hunterdii&theme=github-dark&hide_border=true" img alt="Hunterdii's Activity Graph"/>
+</td>
+</tr>
+</table>
+<h3>🏗️ Contributions (3D View) </h3> 
+<div align="center">
+        
+![3D-Graph-Contribution](https://github.com/Hunterdii/Hunterdii/blob/main/profile-3d-contrib/profile-night-green.svg)
+</div>
 <!--   <h3>🔥 Streak Stats</h3>
   <!-- GitHub Readme Streak Stats - https://github.com/Hunterdii/github-readme-streak-stats -->
 <!--   <p>
@@ -349,12 +358,6 @@
 <!--   <a href="https://github.com/Hunterdii/github-readme-stats"><img alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=Hunterdii&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" height="192px"/></a>
   <a href="https://github.com/Hunterdii/github-readme-stats"><img alt="top langs" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hunterdii&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" height="192px"/></a>
   --> 
-## Contributions (3D View)
-<div align="center">
- 
-![3D-Graph-Contribution](https://github.com/Hunterdii/Hunterdii/blob/main/profile-3d-contrib/profile-night-green.svg)
-
-</div>
 
 
 <!--## 🏆 GitHub Trophies
