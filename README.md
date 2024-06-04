@@ -72,9 +72,12 @@
     <td align="center" width="60">
       <a href="mailto:het8185@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
     </td>
-      <td align="center" width="60">
+    <td align="center" width="60">
       <a href="https://bit.ly/resume-het-temp"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
     </td>
+<!-- <td align="center" width="60">
+      <a href="https://bit.ly/resume-het-temp"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
+    </td> -->
   </tr>
 </table>
 
@@ -376,6 +379,14 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Hunterdii&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>-->
+
+<!--<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />  
+</p>-->
 
 
 </details>
