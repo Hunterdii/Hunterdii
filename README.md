@@ -117,10 +117,15 @@
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
 
-
 <p align='center'>
-  <img align="center" src="https://github.com/Hunterdii/Basic-LoginPage-FireBaseIN/blob/master/github_stats.svg"
+  <img align="center" src="https://raw.githubusercontent.com/Hunterdii/Basic-LoginPage-FireBaseIN/master/github_stats.svg"
 </p>
+
+
+<!--<p align='center'>
+  <img align="center" src="https://github.com/Hunterdii/Basic-LoginPage-FireBaseIN/blob/master/github_stats.svg"
+</p>-->
+        
 <!--<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -350,6 +355,15 @@
         
 ![3D-Graph-Contribution](https://github.com/Hunterdii/Hunterdii/blob/main/profile-3d-contrib/profile-night-green.svg)
 </div>
+
+<!--<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />  
+</p>-->
+
 <!--   <h3>🔥 Streak Stats</h3>
   <!-- GitHub Readme Streak Stats - https://github.com/Hunterdii/github-readme-streak-stats -->
 <!--   <p>
