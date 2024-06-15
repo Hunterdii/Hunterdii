@@ -3,10 +3,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&pause=1000&color=447FF7&center=true&vCenter=true&width=700&height=55&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82;Hey+It's+Het(Hunter)+Patel+%F0%9F%91%8B%F0%9F%8F%BC;I+Am+Currently+Pursuing+My+Bachelor's+%F0%9F%8E%93;Computer+Science+In+BCA;With+Specialization+In+%E2%9A%99%EF%B8%8F;Cyber+Security+%26+Cyber+Forensic;From+PU+Vadodara+%F0%9F%8F%AB;I+Am+a+Cloud+Enthusiast+%F0%9F%93%88;And+Currently+Learning;Business+Intelligence+Tools+%F0%9F%9B%A0%EF%B8%8F" alt="Het Patel" height="55" width="700">-->
 <!--        <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=10000000000000&color=F73283&random=false&width=435&lines=%E0%AA%95%E0%AB%87%E0%AA%AE+%E0%AA%9B%E0%AB%8B%F0%9F%99%8F%2C+%E2%80%8B%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Het+Patel!" align="center" alt="Typing SVG" /></a> -->
+        
+<!--💬TYPINGSVG -->
    <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=10000000000000&color=f39c12&center=true&vCenter=true&random=false&width=435&lines=%E0%AA%95%E0%AB%87%E0%AA%AE+%E0%AA%9B%E0%AB%8B%F0%9F%99%8F%2C+%E2%80%8B%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Het+Patel!"  alt="Typing SVG" align="center"  /></a>
 <!--            <img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/butterfly.gif" width=15%><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/dog.gif" width=8%>
 <!--     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">  -->
- 
+           
+<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg --> 
 <p align="center">
   <a href="https://github.com/Hunterdii/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20And%20App%20Developer;Future%20Cyber%20Security%20Professional;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=9b59b6 &vCenter=true&pause=1000&size=22" align="center" /></a>
@@ -54,7 +57,7 @@
   </tr>
 </table>-->
   
-    
+ <!--🌐💬Social Media-->   
 <table width="120" align="center">
   <tr>  
     <td align="center" width="60">
@@ -83,10 +86,10 @@
 
 
 </p></h2>
-
+<!--💻Big SVG Coding-->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
-
+<!--💫 About Me-->
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - CyberSecurity & Forensic 🔐
 - MongoDB 🍃
@@ -109,6 +112,7 @@
 
 ### ⚡ Fun fact 
 - 🐱‍💻 My GitHub codes = 20%  🙋‍♂️ Me + 40%  💡 StackOverflow + 5%  🔍 Google + 15%  🤖 ChatGPT + 20%
+
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -116,7 +120,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
-
+<!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/Hunterdii/Github-profile-name-writer -->
 <p align='center'>
   <img align="center" src="https://raw.githubusercontent.com/Hunterdii/Basic-LoginPage-FireBaseIN/master/github_stats.svg"
 </p>
@@ -187,6 +191,7 @@
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
       </p>
 </details>!-->
+<!--💻Languages and Tools🛠️-->
 <details>
 <summary><h2 align='center'>💻Languages and Tools🛠️</h2></summary>
 <table width="100">
@@ -305,6 +310,7 @@
 </table>
 </details>
 <details>
+<!--🏆Competitive Coding Profile-->
 <summary><h2 align='center'>🏆Competitive Coding Profile</h2></summary>
     
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/hunterdii9879)
@@ -313,28 +319,35 @@
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-2ecc71?style=flat&labelColor=000000&logo=TryHackMe&logoColor=red)](https://tryhackme.com/p/Hunterdii)
 
 </details>
+
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
-
+<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<!-- <p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
+ -->
   <h3>💻 GitHub Profile Stats</h3> 
 <!--<table border="0" align="center">-->
 <table width="100">
 <tr border="0">
       <td align='center' width="510">
   
+<!--🔝 Rank Gitthub Appearance-->
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hunterdii&theme=github_dark&rank_icon=github&show_icons=true&count_private=true&hide_border=true" />
   <br>
-  <!--📏LINE-->
+
+<!--📏LINE-->
 <!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0447.gif" height="1" width="100%">-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
   </br>
+  <!--🏆 GitHub Streak-->
   <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hunterdii&theme=github-dark-blue&hide_border=true" />
   
 </td>
 
 <td align='center' width="510">
-
+<!--📙 Languages-->
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunterdii&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
   </td>
 </tr>
@@ -342,7 +355,12 @@
 
 
 <b>Note:</b>Top languages only hint at the colorful palette of coding languages I've explored. Yet, they're like a trailer to an epic movie, teasing the excitement of what lies beneath the surface. Dive deeper, and you'll discover the mastery and artistry I bring to each line of code, painting vibrant solutions with finesse. 
-<h3>📈 Activity Graph </h3> 
+<!--📈ACTIVITYGRAPH -->
+<h3>📈 Activity Graph </h3>
+<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<!--<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Hunterdii&color=0E9C47&style=for-the-badge">-->
+
 <table width="100">
         <tr border="0">
       <td align='center' width="1010">
@@ -350,10 +368,11 @@
 </td>
 </tr>
 </table>
+<!--🏗️ Contributions (3D View)-->
 <h3>🏗️ Contributions (3D View) </h3> 
 <div align="center">
         
-![3D-Graph-Contribution](https://github.com/Hunterdii/Hunterdii/blob/main/profile-3d-contrib/profile-night-green.svg)
+![3D-Graph-Contribution](https://raw.githubusercontent.com/Hunterdii/Hunterdii/main/profile-3d-contrib/profile-night-green.svg)
 </div>
 
 <!--<div align=center>
@@ -406,26 +425,31 @@
 </details>
 <details> 
   <summary><h2>📺 My YouTube Please Give A Subscribe</h2></summary>
-   <h3> 😎 <em> I Will Make Sure To Do Entertain With My Content </em> 🤪 </h3>
-  <a href="https://www.youtube.com/@alpharoman9602?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a> 
-
-
+   <h3> 😎 <em> I Will Make Sure To Do Entertain With My Content </em> 🤪 </h3>  
+<a href="https://www.youtube.com/@alpharoman9602?sub_confirmation=1">
+<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white" align="center" /></a>
 <!--Quotes!--> 
 <div align="center">
-  
+        
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 </div> 
-
-  <div>
-<!--🃏MEMEPHOTOS / 🌐WEBSITE: https://github.com/trinib/random-memer -->
-<p align="center">
+ <!-- <div>
+ <!--🃏MEMEPHOTOS / 🌐WEBSITE: https://github.com/trinib/random-memer -->
+<!--<p align="center">
 <img src="https://memer-dx9lqo667-trinib.vercel.app/" width="330px"/>
-
-</div>
-
+</div> -->
+<!--🖼️⭐🔱STARRED/FORK-->
+<!--<h4 align="center">
+<div align="center">
+<table>
+  <tr>
+    <td><p align="center"><a href="https://github.com/Hunterdii?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS 🌟</b></a>
+    <td><p align="center"><a href="https://github.com/Hunterdii/Hunterdii/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING 🔱</b></a>
+  </tr>
+</table></h4>
+ </div>-->
+ <!--💵 buymeacoffee-->
 </details>
-
 <div align="center">
   <a href='https://www.buymeacoffee.com/het81857' target='_blank'>
     <img height='64' style='border:0px;height:64px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-red.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
@@ -479,7 +503,11 @@ me = ReadMe()
 
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
-<!--<img src="https://raw.githubusercontent.com/Hunterdii/Hunterdii/output/github-contribution-grid-snake.svg" width="100%">
+  <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<!--<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif">
+
+<img src="https://raw.githubusercontent.com/Hunterdii/Hunterdii/output/github-contribution-grid-snake.svg" width="100%">
 --!>
 
  <em> 😊<b>  I enjoy making new connections ,</b> so feel free to <b>reach out if you'd like to chat further!</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></em>
@@ -493,3 +521,26 @@ me = ReadMe()
 🌙 Night                       36 commits     ██████░░░░░░░░░░░░░░░░░░░   18.36%
 
 ```--!>
+<!-- <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
+<!-- <h4 align="left">
+</h4>
+ 
+<!--╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
+<h4>
+<h4 align="left">  
+ 
+╚═════ &nbsp;𝐈𝐓'𝐒 [𝐃𝐀𝐑𝐊⚫](https://github.com/settings/appearance#gh-dark-mode-only)[𝐁𝐑𝐈𝐆𝐇𝐓⚪](https://github.com/settings/appearance#gh-light-mode-only) 𝐈𝐍 𝐇𝐄𝐑𝐄...
+<h4>
+
+<!--🪳ROACH&🕷️SPIDER--> 
+<!--<p align="left">
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+ 
+
+<!--🪳ROACH&🕷️SPIDER--> 
+<!--<p align="left">
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+ 
+<!--🦶FOOTER--> 
+<!--<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+ -->
