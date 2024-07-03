@@ -309,8 +309,128 @@
 </tr>
 </table>
 </details>
-<details>
+
+<!--<details>
+<summary><h2 align='center'>💻Languages and Tools🛠️</h2></summary>
+<div style="display: flex; align-items: flex-start; align: center">
+<table width="100">
+    <h3>👨‍💻 Programming and Markup Languages</h3
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="70" height="65">
+    </td>
+    <td align='center' width="190">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="75">
+    </td>
+    <td align='center' width="190">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="90" height="85" />
+    </td>
+    <td align='center' width="190">
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="80" height="75"/>
+    </td>
+</tr>
+    <tr>
+      <td align='center' width="190">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="90" height="85" />
+    </td>
+        <td align='center' width="190">
+            <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="60"/>
+    </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="120"/>
+    </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" width="120"/>
+    </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="60"/>
+    </td>
+    </tr>
+</table>
+<table width="100">
+    <h3>🗄️ Databases and Cloud Hosting</h3>
+<tr>
+    <td align='center' width="190">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="90" height="85"/>
+    </td>
+    <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="120"/>
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="90" height="85"/>
+    </td>
+</tr>
+</table>
+<table width="100">
+    <h3>💻 Software and Tools</h3>
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original-wordmark.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/androidstudio/androidstudio-original-wordmark.svg" width="60">
+    </td>
+<tr> 
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" width="120">
+    </td>
+    </tr>
+    </tr>
+</table>
+    <table width="100">
+    <h3>🧰 Frameworks and Libraries</h3>
+    <tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="85">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg">
+    </td>
+</tr>
+</table>
+</details>-->
+        
 <!--🏆Competitive Coding Profile-->
+<details>
 <summary><h2 align='center'>🏆Competitive Coding Profile</h2></summary>
     
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/hunterdii9879)
@@ -354,7 +474,7 @@
 </table>
 
 
-<b>Note:</b>Top languages only hint at the colorful palette of coding languages I've explored. Yet, they're like a trailer to an epic movie, teasing the excitement of what lies beneath the surface. Dive deeper, and you'll discover the mastery and artistry I bring to each line of code, painting vibrant solutions with finesse. 
+<b>Note:</b> Top languages only hint at the colorful palette of coding languages I've explored. Yet, they're like a trailer to an epic movie, teasing the excitement of what lies beneath the surface. Dive deeper, and you'll discover the mastery and artistry I bring to each line of code, painting vibrant solutions with finesse. 
 <!--📈ACTIVITYGRAPH -->
 <h3>📈 Activity Graph </h3>
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
