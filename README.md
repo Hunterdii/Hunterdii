@@ -76,7 +76,7 @@
       <a href="mailto:het8185@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
     </td>
     <td align="center" width="60">
-      <a href="https://drive.google.com/file/d/1o2SQ59Ecj7BXJHf6R5NE1rd3YTHJUEIt/view?usp=sharing"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
+      <a href="https://drive.google.com/file/d/1o2SQ59Ecj7BXJHf6R5NE1rd3YTHJUEIt/view?usp=drive_link"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
     </td>
 <!-- <td align="center" width="60">
       <a href="https://bit.ly/resume-het-temp"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
@@ -192,7 +192,7 @@
       </p>
 </details>!-->
 <!--💻Languages and Tools🛠️-->
-<details>
+<!--<details>
 <summary><h2 align='center'>💻Languages and Tools🛠️</h2></summary>
 <table width="100">
     <h3>👨‍💻 Programming and Markup Languages</h3
@@ -308,9 +308,10 @@
     </td>
 </tr>
 </table>
-</details>
+</details>-->
 
-<!--<details>
+<!--💻Languages and Tools🛠️-->
+<details>
 <summary><h2 align='center'>💻Languages and Tools🛠️</h2></summary>
 <div style="display: flex; align-items: flex-start; align: center">
 <table width="100">
@@ -427,7 +428,7 @@
     </td>
 </tr>
 </table>
-</details>-->
+</details>
         
 <!--🏆Competitive Coding Profile-->
 <details>
