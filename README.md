@@ -61,7 +61,8 @@
 <table width="120" align="center">
   <tr>  
     <td align="center" width="60">
-      <a href="https://www.linkedin.com/in/het-patel-8b110525a/"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a>
+      <a href="https://www.linkedin.com/in/het-patel-8b110525a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a>
     </td>
     <td align="center" width="60">
       <a href="https://twitter.com/HetPate94938685"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" width="60"></a>
@@ -76,7 +77,7 @@
       <a href="mailto:het8185@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
     </td>
     <td align="center" width="60">
-      <a href="https://drive.google.com/file/d/1o2SQ59Ecj7BXJHf6R5NE1rd3YTHJUEIt/view?usp=drive_link"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
+      <a href="https://drive.google.com/file/d/1ENgW8wWwbRlkos5c5l7vBbZ7AeAl443e/view?usp=drive_link"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
     </td>
 <!-- <td align="center" width="60">
       <a href="https://bit.ly/resume-het-temp"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
@@ -556,11 +557,11 @@
 </div> 
  <!-- <div>
  <!--🃏MEMEPHOTOS / 🌐WEBSITE: https://github.com/trinib/random-memer -->
-<!--<p align="center">
-<img src="https://memer-dx9lqo667-trinib.vercel.app/" width="330px"/>
-</div> -->
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="330px"/>
+</div> 
 <!--🖼️⭐🔱STARRED/FORK-->
-<!--<h4 align="center">
+<h4 align="center">
 <div align="center">
 <table>
   <tr>
@@ -568,7 +569,7 @@
     <td><p align="center"><a href="https://github.com/Hunterdii/Hunterdii/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING 🔱</b></a>
   </tr>
 </table></h4>
- </div>-->
+ </div>
  <!--💵 buymeacoffee-->
 </details>
 <div align="center">
