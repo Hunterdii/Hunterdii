@@ -576,7 +576,38 @@
 ### :sparkles: [Trendsetters(Supporters)](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Rubadharsini">
+        <img src="https://avatars2.githubusercontent.com/u/131747216" width="100px;" alt="Rubadharsini"/>
+      </a>
+      <br />
+      <a href="https://github.com/Rubadharsini">RUBADHARSINI S</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Penguin5681">
+        <img src="https://avatars2.githubusercontent.com/u/85027012" width="100px;" alt="Penguin5681"/>
+      </a>
+      <br />
+      <a href="https://github.com/Penguin5681">Pranav Sinha</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SamarthGarge">
+        <img src="https://avatars2.githubusercontent.com/u/156199633" width="100px;" alt="SamarthGarge"/>
+      </a>
+      <br />
+      <a href="https://github.com/SamarthGarge">Samarth Garge</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Starshadow0707">
+        <img src="https://avatars2.githubusercontent.com/u/129964953" width="100px;" alt="Starshadow0707"/>
+      </a>
+      <br />
+      <a href="https://github.com/Starshadow0707">Het(Hunter) Patel</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
 ---
