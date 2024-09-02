@@ -561,7 +561,7 @@
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="330px"/>
 </div> 
 <!--🖼️⭐🔱STARRED/FORK-->
-<!--<h4 align="center">
+<h4 align="center">
 <div align="center">
 <table>
   <tr>
@@ -569,14 +569,15 @@
     <td><p align="center"><a href="https://github.com/Hunterdii/Hunterdii/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING 🔱</b></a>
   </tr>
 </table></h4>
- </div>-->
+ </div>
 
- ---
+<!--  
+---
 
 ### :sparkles: [Trendsetters(Supporters)](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
-<table>
+<!--<table>
   <tr>
     <td align="center">
       <a href="https://github.com/Rubadharsini">
@@ -607,10 +608,8 @@
       <a href="https://github.com/Starshadow0707">Het(Hunter) Patel</a>
     </td>
   </tr>
-</table>
+</table>-->
 <!--END_SECTION:top-followers-->
-
----
 
  <!--💵 buymeacoffee-->
 </details>
