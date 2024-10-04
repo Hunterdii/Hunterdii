@@ -546,30 +546,66 @@
 
 </details>
 <details> 
-  <summary><h2>📺 My YouTube Please Give A Subscribe</h2></summary>
-   <h3> 😎 <em> I Will Make Sure To Do Entertain With My Content </em> 🤪 </h3>  
-<a href="https://www.youtube.com/@alpharoman9602?sub_confirmation=1">
-<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white" align="center" /></a>
-<!--Quotes!--> 
+  <summary><h2>📘 Check Out My Open Source Work</h2></summary>    
+        
+<a href="https://github.com/sponsors/Hunterdii/">
+    <img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=Teal&logo=link-external"/>
+  </a>
+<p align="left">
+    <a href="https://github.com/Hunterdii/GeeksforGeeks-POTD"><img width="332" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=GeeksforGeeks-POTD&theme=github_dark&bg_color=1F222E&title_color=58A6FF&hide_border=true&icon_color=1F6FEB&show_icons=false" alt="GeeksforGeeks-POTD"></a>
+    <a href="https://github.com/Hunterdii/Hack-Academia"><img width="332" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=Hack-Academia&theme=github_dark&bg_color=1F222E&title_color=58A6FF&hide_border=true&icon_color=1F6FEB&show_icons=false" alt="Hack-Academia"></a>
+    <a href="https://github.com/Hunterdii/Awesome-Java"><img width="332" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=Awesome-Java&theme=github_dark&bg_color=1F222E&title_color=58A6FF&hide_border=true&icon_color=1F6FEB&show_icons=false" alt="Awesome-Java"></a>
+    <a href="https://github.com/Hunterdii/AI-Nexus"><img width="332" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=AI-Nexus&theme=github_dark&bg_color=1F222E&title_color=58A6FF&hide_border=true&icon_color=1F6FEB&show_icons=false" alt="AI-Nexus"></a>
+    <a href="https://github.com/Hunterdii/GitHub-Terminal"><img width="332" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=GitHub-Terminal&theme=github_dark&bg_color=1F222E&title_color=58A6FF&hide_border=true&icon_color=1F6FEB&show_icons=false" alt="GitHub-Terminal"></a>
+    <a href="https://github.com/Hunterdii/E-Sports-Site"><img width="332" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=E-Sports-Site&theme=github_dark&bg_color=1F222E&title_color=58A6FF&hide_border=true&icon_color=1F6FEB&show_icons=false" alt="E-Sports-Site"></a>
+</p>
+
+
+  <a href="https://github.com/Hunterdii?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=Teal&logo=repo"/>
+  </a>
+
+
+
+<!-- Quotes Section -->
 <div align="center">
         
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div> 
- <!-- <div>
- <!--🃏MEMEPHOTOS / 🌐WEBSITE: https://github.com/trinib/random-memer -->
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="330px"/>
-</div> 
-<!--🖼️⭐🔱STARRED/FORK-->
-<h4 align="center">
+
+<!-- Jokes Section -->
 <div align="center">
-<table>
-  <tr>
-    <td><p align="center"><a href="https://github.com/Hunterdii?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS 🌟</b></a>
-    <td><p align="center"><a href="https://github.com/Hunterdii/Hunterdii/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING 🔱</b></a>
-  </tr>
-</table></h4>
- </div>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="330px"/>
+</div> 
+
+<!-- Starred Repos and Fork Links -->
+<h4 align="center">
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/Hunterdii?tab=stars">
+            <b>MY STARRED REPOS <br> AND TOPICS 🌟</b>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/Hunterdii/Hunterdii/edit/main/README.md">
+            <b>FORK PROFILE WITH <br> EASY EDITING 🔱</b>
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</h4>
+
+<!--<h2>📺 My YouTube - Please Give A Subscribe</h2>
+<h3>😎 <em>I Will Make Sure To Entertain You With My Content</em> 🤪</h3>  
+<a href="https://www.youtube.com/@alpharoman9602?sub_confirmation=1">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white" align="center" />
+</a>-->
+
+</details>
+
 
 <!--  
 ---
