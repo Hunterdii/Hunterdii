@@ -312,8 +312,20 @@
 </details>-->
 
 <!--📘 Check Out My Open Source Work-->
+
+
 <details open> 
-  <summary><h2>📘 Check Out My Open Source Work</h2></summary>    
+  <summary>
+     <h2>
+    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px">
+   Check Out My Open Source Work </h2>
+
+  <a href="https://github.com/Hunterdii">
+    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px">
+  </a>
+  </summary>
+</details>
+
         
 <a href="https://github.com/sponsors/Hunterdii/">
     <img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=Teal&logo=link-external"/>
@@ -343,11 +355,17 @@
 
 
 <!--💻Languages and Tools🛠️-->
-<details>
-<summary><h2 align='center'>💻Languages and Tools</h2></summary>
-<div style="display: flex; align-items: flex-start; align: center">
+<details> 
+  <summary><h2 align='center'>
+<img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px"> Languages and Tools</h2>
+  
+  <a href="https://github.com/Hunterdii">
+  </a>
+ </summary> 
+ <div style="display: flex; align-items: flex-start; align: center">
 <table width="100">
-    <h3>👨‍💻 Programming and Markup Languages</h3
+</details>
+    <h3>👨‍💻 Programming and Markup Languages</h3>
 <tr>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
@@ -463,8 +481,11 @@
 </details>
 
 <!--🏆Competitive Coding Profile-->
-<details>
-<summary><h2 align='center'>🏆Competitive Coding</h2></summary>
+<details> 
+  <summary><h2 align='center'>
+<img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a> Competitive Coding</h2>
+  <a href="https://github.com/Hunterdii">
+  </summary>
     
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/hunterdii9879)
 [![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-hunterdxwfu-green)](https://auth.geeksforgeeks.org/user/hunterdxwfu)	
@@ -509,7 +530,9 @@
 
 
 <details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  <summary><h2><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width = 35px height = 35px></a> Stats and Activity</h2>
+  <a href="https://github.com/Hunterdii">
+  </summary>
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <!-- <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
@@ -521,7 +544,8 @@
       <td align='center' width="510">
   
 <!--🔝 Rank Gitthub Appearance-->
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hunterdii&theme=github_dark&rank_icon=github&show_icons=true&count_private=true&hide_border=true" />
+  <!--<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hunterdii&theme=github_dark&rank_icon=github&show_icons=true&count_private=true&hide_border=true" />-->
+  <img src="https://gh-readme-profile.vercel.app/api?username=Hunterdii&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
   <br>
 
 <!--📏LINE-->
@@ -537,6 +561,9 @@
 <td align='center' width="510">
 <!--📙 Languages-->
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunterdii&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+
+
+
   </td>
 </tr>
 </table>
@@ -666,7 +693,7 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
         
-<details> <summary><h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+<details> <summary><h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="37"> 
 A little more about me...</h2></summary>
     
 ```javascriptclass ReadMe:
