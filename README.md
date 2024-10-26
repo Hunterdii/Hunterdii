@@ -5,13 +5,13 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=10000000000000&color=F73283&random=false&width=435&lines=%E0%AA%95%E0%AB%87%E0%AA%AE+%E0%AA%9B%E0%AB%8B%F0%9F%99%8F%2C+%E2%80%8B%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Het+Patel!" align="center" alt="Typing SVG" /></a> -->
         
 <!--💬TYPINGSVG -->
-   <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=10000000000000&color=f39c12&center=true&vCenter=true&random=false&width=435&lines=%E0%AA%95%E0%AB%87%E0%AA%AE+%E0%AA%9B%E0%AB%8B%F0%9F%99%8F%2C+%E2%80%8B%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Het+Patel!"  alt="Typing SVG" align="center"  /></a>
+   <p align="center"><a href="https://github.com/Hunterdii"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=10000000000000&color=f39c12&center=true&vCenter=true&random=false&width=435&lines=%E0%AA%95%E0%AB%87%E0%AA%AE+%E0%AA%9B%E0%AB%8B%F0%9F%99%8F%2C+%E2%80%8B%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Het+Patel!"  alt="Typing SVG" align="center"  /></a>
 <!--            <img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/butterfly.gif" width=15%><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/dog.gif" width=8%>
 <!--     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">  -->
            
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg --> 
 <p align="center">
-  <a href="https://github.com/Hunterdii/readme-typing-svg">
+  <a href="https://github.com/Hunterdii">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20And%20App%20Developer;Future%20Cyber%20Security%20Professional;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=9b59b6 &vCenter=true&pause=1000&size=22" align="center" /></a>
 </p>
 
@@ -88,7 +88,8 @@
 
 </p></h2>
 <!--💻Big SVG Coding-->
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
+  <a href="https://github.com/Hunterdii">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"></a>
 
 <!--💫 About Me-->
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -118,13 +119,13 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--🖼️OCTOCAT-->
-<p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
+<p align="center"><a href="https://github.com/sponsors/Hunterdii">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p></a>
 
 <!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/Hunterdii/Github-profile-name-writer -->
-<p align='center'>
+<p align='center'>  <a href="https://github.com/sponsors/Hunterdii">
   <img align="center" src="https://raw.githubusercontent.com/Hunterdii/Basic-LoginPage-FireBaseIN/master/github_stats.svg"
-</p>
+</p></a>
 
 
 <!--<p align='center'>
@@ -316,8 +317,8 @@
 
 <details open> 
   <summary>
-     <h2>
-    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px">
+     <h2>  <a href="https://github.com/Hunterdii">
+    <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
    Check Out My Open Source Work </h2>
 
   <a href="https://github.com/Hunterdii">
@@ -356,8 +357,8 @@
 
 <!--💻Languages and Tools🛠️-->
 <details> 
-  <summary><h2 align='center'>
-<img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px"> Languages and Tools</h2>
+  <summary><h2 align='center'><a href="https://github.com/Hunterdii">
+<img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px"></a> Languages and Tools</h2>
   
   <a href="https://github.com/Hunterdii">
   </a>
@@ -482,9 +483,8 @@
 
 <!--🏆Competitive Coding Profile-->
 <details> 
-  <summary><h2 align='center'>
+  <summary><h2 align='center'><a href="https://github.com/Hunterdii">
 <img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a> Competitive Coding</h2>
-  <a href="https://github.com/Hunterdii">
   </summary>
     
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/hunterdii9879)
@@ -530,7 +530,8 @@
 
 
 <details> 
-  <summary><h2><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width = 35px height = 35px></a> Stats and Activity</h2>
+  <summary><h2><a href="https://github.com/Hunterdii">
+<img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width = 35px height = 35px></a> Stats and Activity</h2>
   <a href="https://github.com/Hunterdii">
   </summary>
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
@@ -693,7 +694,8 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
         
-<details> <summary><h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="37"> 
+<details> <summary><h2>  <a href="https://github.com/Hunterdii">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="37"> </a>
 A little more about me...</h2></summary>
     
 ```javascriptclass ReadMe:
@@ -743,7 +745,8 @@ me = ReadMe()
 <img src="https://raw.githubusercontent.com/Hunterdii/Hunterdii/output/github-contribution-grid-snake.svg" width="100%">
 --!>
 
- <em> 😊<b>  I enjoy making new connections ,</b> so feel free to <b>reach out if you'd like to chat further!</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></em>
+ <em> 😊<b>  I enjoy making new connections ,</b> so feel free to <b>reach out if you'd like to chat further!</b>  <a href="https://github.com/sponsors/Hunterdii">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></em></a>
 
 <!--START_SECTION:waka-->
 <!--**I'm An Early & An Late Owl As Per The Kick I Get From...​🌓​🐤🦉​🌇​🌃​** 
