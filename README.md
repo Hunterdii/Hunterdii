@@ -334,11 +334,11 @@
 <p align="left">
     <a href="https://github.com/Hunterdii/GeeksforGeeks-POTD">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=GeeksforGeeks-POTD&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="GeeksforGeeks-POTD"></a>
-    <a href="https://github.com/Hunterdii/Hack-Academia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=Hack-Academia&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Hack-Academia"></a>
+    <a href="https://github.com/Hunterdii/Awesome-Hacking"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=Awesome-Hacking&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Awesome-Hacking"></a>
     <a href="https://github.com/Hunterdii/Awesome-Java"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=Awesome-Java&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Awesome-Java"></a>
-    <a href="https://github.com/Hunterdii/AI-Nexus"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=AI-Nexus&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="AI-Nexus"></a>
-    <a href="https://github.com/Hunterdii/30-Days-Of-Rust"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=30-Days-Of-Rust&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="30-Days-Of-Rust"></a>
     <a href="https://github.com/Hunterdii/E-Sports-Site"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=E-Sports-Site&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="E-Sports-Site"></a>
+    <a href="https://github.com/Hunterdii/tryhackme-free-rooms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=tryhackme-free-rooms&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="tryhackme-free-rooms"></a>
+    <a href="https://github.com/Hunterdii/30-Days-Of-Rust"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=30-Days-Of-Rust&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="30-Days-Of-Rust"></a>
 </p>
 
 
