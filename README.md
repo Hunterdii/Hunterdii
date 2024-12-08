@@ -746,7 +746,13 @@ me = ReadMe()
 
  <em> 😊<b>  I enjoy making new connections ,</b> so feel free to <b>reach out if you'd like to chat further!</b>  <a href="https://github.com/sponsors/Hunterdii">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></em></a>
+</br>
 
+<div align="left">
+  <h2><b>👀 Visitor Count</b></h2>
+</div>
+<a href="https://github.com/sponsors/Hunterdii/">
+<img src="https://count.getloli.com/@Hunterdii?name=Hunterdii&theme=green&darkmode=1">
 <!--START_SECTION:waka-->
 <!--**I'm An Early & An Late Owl As Per The Kick I Get From...​🌓​🐤🦉​🌇​🌃​** 
 ```text
@@ -779,3 +785,4 @@ me = ReadMe()
 <!--🦶FOOTER--> 
 <!--<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
  -->
+
