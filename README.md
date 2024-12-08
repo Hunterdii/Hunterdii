@@ -325,7 +325,6 @@
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px">
   </a>
   </summary>
-</details>
 
         
 <a href="https://github.com/sponsors/Hunterdii/">
