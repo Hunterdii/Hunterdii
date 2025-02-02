@@ -1,0 +1,21 @@
+name: Auto Update README with Recent Activity
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    name: Update README with Recent GitHub Activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Hunterdii/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Updated - Recent Activities"
+          MAX_LINES: 10
+          COMMIT_NAME: GitHub Activity Readme
