@@ -134,7 +134,7 @@
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=Teal&logo=repo"/>
   </a>
 
-<h3>⏳ GitHub Activity Logs 📜</h3>
+<!--<h3>⏳ GitHub Activity Logs 📜</h3>-->
 
 <!--START_SECTION:activity-->
 
@@ -370,9 +370,9 @@
 </div>
 </details>
 
-## <!--
+ 
 
-### :sparkles: [Trendsetters(Supporters)](src/getTopFollowers.py)
+<!--### :sparkles: [Trendsetters(Supporters)](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
 <!--<table>
@@ -476,4 +476,3 @@ me = ReadMe()
 </div>
 <a href="https://github.com/sponsors/Hunterdii/">
 <img src="https://count.getloli.com/@Hunterdii?name=Hunterdii&theme=green&darkmode=1">
-```
