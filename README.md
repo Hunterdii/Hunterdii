@@ -34,8 +34,7 @@
 <table width="120" align="center">
   <tr>  
     <td align="center" width="60">
-      <a href="https://www.linkedin.com/in/het-patel-8b110525a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a>
+      <a href="https://www.linkedin.com/in/patel-hetkumar-sandipbhai-8b110525a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a>
     </td>
     <td align="center" width="60">
       <a href="https://twitter.com/HetPate94938685"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" width="60"></a>
