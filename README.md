@@ -4,7 +4,7 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/Hunterdii">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20And%20App%20Developer;Future%20Cyber%20Security%20Professional;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=9b59b6 &vCenter=true&pause=1000&size=22" align="center" /></a>
+    <img src="https://readme-typing-svg.demolab.com?lines=Full-Stack%20Web%20And%20App%20Developer;Future%20Cyber%20Security%20Professional;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=22&center=true&vCenter=true&width=440&height=45&color=f75c7e&pause=1000" align="center" /></a>
 </p>
 
 <!--1abc9c,e74c3c,3498db,2ecc71,9b59b6,f39c12
