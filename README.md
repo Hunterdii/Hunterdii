@@ -401,34 +401,56 @@
 <details> <summary><h2>  <a href="https://github.com/Hunterdii">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="37"> </a>
 A little more about me...</h2></summary>
-    
-```javascriptclass ReadMe:
-    def __init__(self):
-        self.name = 'Patel HetKumar SandipBhai'
-        self.education = {'programming': 'Full Stack Software Development', 'art': ['Singing', 'Art and Design', 'Gaming']}
-        self.employment = {'developer': ['company', 'city'], 'designer': ['RR Cables', 'CodeSoft', 'Oasis InfoByte',]}
-        self.current_year = 2024
-    def doing(self, now):
-        if now < self.current_year:
-            return f"I was a design with {self.employment['developer'][0]} in {self.employment['developer'][1]}"
-        elif now == self.current_year:
-            return f"I am currently learning {self.education['programming']} at Parul Institute"
-        elif now > self.current_year:
-            return f"I am eager to collaborate with {self.employment['developer'][0]} on Android and web development"
-        else:
-            return "### Hi there 👋"
-    def collaborate(self, role, organization, location):
-        self.employment[role] = [organization, location]
-    pronouns = "He | Him"
-    code = ["Javascript🚀", "C🅒", "Python🐍", "Java☕", "Php🐘", "C#(.Net🎯)"]
-    askMeAbout = ["web dev🌐", "Foody🍔", "app dev📱", "Singing🎤", "Drawing✏️"]
-    technologies = {'mobileApp': ["Android App📱", "Flutter🚀"], 'frontEnd': {'js': ["React⚛️"], 'css': ["Tailwind🌪️", "bootstrap🅱️"]}, 'backEnd': {'php': ["php🐘", "c#🎯"], 'python': ["flask🍶"]}, 'devOps': ["Google Cloud☁️", "Docker🐳", "AWS🌩️"], 'databases': ["mongoDB🍃", "MySql🐬", "Oracle🛢️"], 'misc': ["Firebase🔥", "sqlite📦"]}
-    architecture = ["Serverless Architecture", "Progressive web applications", "Single page applications"]
-    currentProject = "I am developing Android Application Named: FestivityFlippers"
-    funFact = "There are two ways to write error-free programs; only the third one works"
 
-me = ReadMe()
 
+ ```python
+# Who I Am 💫
+class WhoIsThis 🧑‍💻:
+    user = "Patel HetKumar SandipBhai 👨"
+    current_year = "2025 📆"
+    current_work = "Writing code with music essentials 🎧💻✨"
+    current_city = "Vadodara, Gujarat 🇮🇳 🌍"
+    current_project = "Developing a Web-App: FestivityFlippers 🎉🎯"
+
+    hobbies = [
+            "Singing 🎤", "Travelling Like All Others ✈️🌍", "Drawing ✏️🎨",
+            "Watching old romantic movies 🎬❤️", "Being up all night chasing that ONE BUG... 🐞🌙💡"
+    ]
+
+    favorite_singers = {
+        "Gujarati": ["Sachin-Jigar 🎶", "Aditya Gadhvi 🎵", "Gazals: Manhar Udhas 🎤"],
+        "Hindi": ["Arijit Singh 🎶", "Darshan Raval 🎵", "KK 🎤", "Atif Aslam 🎶", 
+                  "Vishal-Shekhar 🎹", "Ankit Tiwari 🎼", "Mithoon 🎵"],
+        "Punjabi": ["Harnoor B 🎶", "B Praak 🎵", "AP Dhillon 🎤", "Kaka 🎶", "Jass Manak 🎵"],
+        "English": ["Ed Sheeran 🎸", "Alan Walker 🎧", "Ruth B 🎤", "Adam Levine 🎵"]
+    }
+
+    favorite_music_directors = ["R.D. Burman 🎶", "Pritam 🎵"]
+
+    ask_me_about = [
+                 "Web Development 🌐", "App Development 📱", 
+                 "Foody Talks 🍔", "Singing 🎤", "Creative Drawing ✏️"
+    ]
+
+    architecture_interest = ["Serverless Architecture 🧩", "Progressive Web Apps ⚙️", "Single Page Applications 🖥️"]
+
+    get_my_ambitions = [
+            "Master Cloud Computing ☁️",
+            "Crack a Google Interview and work at Google 💼✨",
+            "Build a Cross-Platform Game 🎮",
+            "Win a Design or Code Hackathon 🏆",
+            "Give a TED Talk on Tech + Creativity 🎤🧠",
+            "Build a Personal AI Assistant 🤖",
+            "Contribute to the Developer Community via YouTube or Blogs 📹✍️",
+            "Launch My Own Android App Startup 🚀📱",
+            "Record a Cover Song and Post on Spotify 🎶",
+            "Mentor Students or Juniors in Tech 👨‍🏫",
+            "Drink less coffee... maybe ☕😅"
+            # More dreams loading... 🔄😉
+        ]
+
+# 😄 Fun Fact
+fun_fact = "There are two ways to write error-free programs; only the third one works. 😅"
 ```
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
