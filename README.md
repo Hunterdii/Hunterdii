@@ -27,7 +27,7 @@
       <a href="mailto:het8185@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
     </td>
     <td align="center" width="60">
-      <a href="https://drive.google.com/file/d/1ENgW8wWwbRlkos5c5l7vBbZ7AeAl443e/view?usp=drive_link"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
+      <a href="https://drive.google.com/file/d/1BK4Av3GBvucdx1ZKJrtCcFGRHPbka_Td/view?usp=sharing"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
     </td>
 
   </tr>
@@ -452,6 +452,13 @@ class WhoIsThis 🧑‍💻:
 # 😄 Fun Fact
 fun_fact = "There are two ways to write error-free programs; only the third one works. 😅"
 ```
+
+<!--<div align="center">
+  <a href='https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3155zbhi553vol7oh3tmrazrwxei&redirect=true'>
+    <img src='https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3155zbhi553vol7oh3tmrazrwxei&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true' border='10%' alt='Sporify Playing' />
+  </a>
+</div>-->
+
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
