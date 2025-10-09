@@ -347,7 +347,12 @@
 </div>
 </details>
 
- 
+<!-- <details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://www.holopin.io/@hunterdii"><img src="https://www.holopin.me/@hunterdii" alt="@hunterdii&#39;s Holopin board"></a></p>
+  
+</details>-->
 
 <!--### :sparkles: [Trendsetters(Supporters)](src/getTopFollowers.py)
 
