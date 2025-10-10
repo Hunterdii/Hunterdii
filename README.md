@@ -27,7 +27,7 @@
       <a href="mailto:het8185@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
     </td>
     <td align="center" width="60">
-      <a href="https://drive.google.com/file/d/1BK4Av3GBvucdx1ZKJrtCcFGRHPbka_Td/view?usp=sharing"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
+      <a href="https://drive.google.com/file/d/16ZHjr8T6I05DB3u1ynyjKJ9K8ObG36kq/view?usp=sharing"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
     </td>
 
   </tr>
@@ -40,33 +40,48 @@
 
 <!--💫 About Me-->
 
+
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- CyberSecurity & Forensic 🔐
-- MongoDB 🍃
-- Devops ☁️
-- React.js, Native ⚛️
+* **CyberSecurity & Forensics** 🔐
+* **MongoDB** 🍃
+* **DevOps** ☁️
+* **React.js & React Native** ⚛️
+
+
 
 ### 💻 I'm working on
 
-- My portfolio website 💼
-- Festivity Flippers (My StartUp) 🚀
+* **My Portfolio Website** 💼
+* **Festivity Flippers (My StartUp)** 🚀
 
-### 🌱 Goals for 2024
 
-- Complete #100DaysOfCode challenge 💯.
-- Build 30+ projects 🛠️.
-- Contribute to Open Source 🌐.
+### 🌱 Goals for 2025
+
+
+- [ ] 🏆 Participate in **10+ Hackathons** and **win 2+**  
+- [ ] 💼 Land internships at **2+ top tech companies**  
+- [ ] 🛠️ Build **30+ impactful projects**  
+- [x] 🤖 Explore **AI × CyberSecurity** innovations  
+- [x] 🌐 Contribute to **Open Source** projects  
+- [ ] 📈 Scale **Festivity Flippers** into a real startup  
+- [ ] ✍️ Launch my **personal tech blog/portfolio**
+- [x] 🚀 Complete **#100DaysOfCode (Level 2)**  
 
 ### 💭 Ask me about
 
-- Designing 🎨
-- and anything... ❓
-  <a href="https://buymeacoffee.com/het81857"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+* **Designing** 🎨
+* and **anything tech-related**... ❓
+
+<a href="https://buymeacoffee.com/het81857">
+  <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/>
+</a>  
+
 
 ### ⚡ Fun fact
 
-- 🐱‍💻 My GitHub codes = 20% 🙋‍♂️ Me + 40% 💡 StackOverflow + 5% 🔍 Google + 15% 🤖 ChatGPT + 20%
+> 🐱‍💻 My GitHub codes = 30% 🙋‍♂️ Me + 10% 💡 StackOverflow + 5% 🔍 Google + 25% 🤖 ChatGPT + 30% ☕ Motivation
+
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -347,12 +362,13 @@
 </div>
 </details>
 
-<!-- <details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
-
+<details>
+  <summary><h2 align='center'><a href="https://github.com/Hunterdii">
+<img src="https://github.com/user-attachments/assets/11fc054d-081b-4f1e-8d9e-84b3e10f49bc" width = 35px height = 35px></a> Holopin Badges</h2>
+  </summary>
   <p><a href="https://www.holopin.io/@hunterdii"><img src="https://www.holopin.me/@hunterdii" alt="@hunterdii&#39;s Holopin board"></a></p>
   
-</details>-->
+</details>
 
 <!--### :sparkles: [Trendsetters(Supporters)](src/getTopFollowers.py)
 
