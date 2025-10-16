@@ -5,7 +5,7 @@ import re
 from time import sleep
 
 if __name__ == "__main__":
-    assert(len(sys.argv) == 4)
+    assert (len(sys.argv) == 4)
     handle = sys.argv[1]
     token = sys.argv[2]
     readmePath = sys.argv[3]
@@ -67,7 +67,7 @@ query {{
     }}
 }}
 '''
-        response = requests.post(f"https://api.github.com/graphql", json.dumps({ "query": query }), headers = headers)
+        response = requests.post(f"https://api.github.com/graphql", json.dumps({"query": query}), headers=headers)
         if not response.ok or "data" not in response.json():
             print(query)
             print(response.status_code)
@@ -105,7 +105,7 @@ query {{
         cursor = res["pageInfo"]["endCursor"]
         sleep(1)
 
-    followers.sort(reverse = True)
+    followers.sort(reverse=True)
 
     html = "<table>\n"
 
