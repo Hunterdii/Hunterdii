@@ -56,17 +56,17 @@
 * **Festivity Flippers (My StartUp)** 🚀
 
 
-### 🌱 Goals for 2025
+### 🌱 Goals for 2026
 
 
 - [ ] 🏆 Participate in **10+ Hackathons** and **win 2+**  
 - [ ] 💼 Land internships at **2+ top tech companies**  
 - [ ] 🛠️ Build **30+ impactful projects**  
-- [x] 🤖 Explore **AI × CyberSecurity** innovations  
-- [x] 🌐 Contribute to **Open Source** projects  
+- [ ] 🤖 Explore **AI × CyberSecurity** innovations  
+- [ ] 🌐 Contribute to **Open Source** projects  
 - [ ] 📈 Scale **Festivity Flippers** into a real startup  
 - [ ] ✍️ Launch my **personal tech blog/portfolio**
-- [x] 🚀 Complete **#100DaysOfCode (Level 2)**  
+- [ ] 🚀 Complete **#100DaysOfCode (Level 2)**  
 
 ### 💭 Ask me about
 
@@ -336,7 +336,7 @@
 
 <td align='center' width="510">
 <!--📙 Languages-->
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunterdii&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+  <img  align="center"  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hunterdii&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
 
   </td>
 </tr>
