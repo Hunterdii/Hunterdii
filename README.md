@@ -62,7 +62,7 @@
 - [ ] 🏆 Participate in **10+ Hackathons** and **win 2+**  
 - [ ] 💼 Land internships at **2+ top tech companies**  
 - [ ] 🛠️ Build **30+ impactful projects**  
-- [ ] 🤖 Explore **AI × CyberSecurity** innovations  
+- [x] 🤖 Explore **AI × CyberSecurity** innovations  
 - [ ] 🌐 Contribute to **Open Source** projects  
 - [ ] 📈 Scale **Festivity Flippers** into a real startup  
 - [ ] ✍️ Launch my **personal tech blog/portfolio**
@@ -267,8 +267,8 @@
   </summary>
     
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/hunterdii9879)
-[![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-hunterdxwfu-green)](https://auth.geeksforgeeks.org/user/hunterdxwfu)	
-[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/hunterdii9879/)
+[![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-Hunterdii-green)](https://auth.geeksforgeeks.org/user/Hunterdii)	
+[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/Hunterdii/)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-2ecc71?style=flat&labelColor=000000&logo=TryHackMe&logoColor=red)](https://tryhackme.com/p/Hunterdii)
 
 <!-- Quotes Section -->
