@@ -98,7 +98,7 @@
 
 <!--📘 Check Out My Open Source Work-->
 
-<details open> 
+<!-- <details open> 
   <summary>
      <h2>  <a href="https://github.com/Hunterdii">
     <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
@@ -120,12 +120,14 @@
     <a href="https://github.com/Hunterdii/Awesome-Hacking"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=Awesome-Hacking&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Awesome-Hacking"></a>
        <a href="https://github.com/Hunterdii/30-Days-Of-Rust"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=30-Days-Of-Rust&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="30-Days-Of-Rust"></a>
        <a href="https://github.com/Hunterdii/Awesome-Java"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=Awesome-Java&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Awesome-Java"></a>
-</p>
+</p> -->
 
+<div align="center">
   <a href="https://github.com/Hunterdii?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=Teal&logo=repo"/>
   </a>
 
+</div>
 <!--<h3>⏳ GitHub Activity Logs 📜</h3>-->
 
 <!--START_SECTION:activity-->
@@ -151,21 +153,21 @@
         <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="70" height="65">
+        <img src="Assets/python-icon.svg" alt="icon" width="70" height="65">
     </td>
     <td align='center' width="190">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="75">
+        <img src="Assets/java-icon.svg" alt="icon" width="80" height="75">
     </td>
     <td align='center' width="190">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="90" height="85" />
+            <img src="Assets/js-icon.svg" alt="icon" width="90" height="85" />
     </td>
     <td align='center' width="190">
-            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="80" height="75"/>
+            <img src="Assets/cpp-icon.svg" alt="icon" width="80" height="75"/>
     </td>
 </tr>
     <tr>
       <td align='center' width="190">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="90" height="85" />
+            <img src="Assets/ts-icon.svg" alt="icon" width="90" height="85" />
     </td>
         <td align='center' width="190">
             <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="60"/>
@@ -185,7 +187,7 @@
     <h3>🗄️ Databases and Cloud Hosting</h3>
 <tr>
     <td align='center' width="190">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="90" height="85"/>
+            <img src="Assets/mysql-icon.svg" alt="icon" width="90" height="85"/>
     </td>
     <td align='center' width="190">
             <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="120"/>
@@ -197,7 +199,7 @@
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="120">
     </td>
     <td align='center' width="190">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="90" height="85"/>
+            <img src="Assets/github-icon.svg" alt="icon" width="90" height="85"/>
     </td>
 </tr>
 </table>
@@ -248,7 +250,7 @@
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="85">
+        <img src="Assets/react-icon.svg" alt="icon" width="80" height="85">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
@@ -345,15 +347,15 @@
 <b>Note:</b> Top languages only hint at the colorful palette of coding languages I've explored. Yet, they're like a trailer to an epic movie, teasing the excitement of what lies beneath the surface. Dive deeper, and you'll discover the mastery and artistry I bring to each line of code, painting vibrant solutions with finesse.
 
 <!--📈ACTIVITYGRAPH -->
-<h3>📈 Activity Graph </h3>
+<!-- <h3>📈 Activity Graph </h3>
 
 <table width="100">
         <tr border="0">
       <td align='center' width="1010">
   <img  align="center"  src="https://github-readme-activity-graph.vercel.app/graph/?username=Hunterdii&theme=github-dark&hide_border=true&area=true" img alt="Hunterdii's Activity Graph"/>
 </td>
-</tr>
-</table>
+</tr> -->
+<!-- </table> -->
 <!--🏗️ Contributions (3D View)-->
 <h3>🏗️ Contributions (3D View) </h3> 
 <div align="center">
